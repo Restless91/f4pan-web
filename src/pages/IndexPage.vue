@@ -112,7 +112,7 @@ watch(url, value => {
 				</template>
 				<div class="p-fluid">
 					<div class="field" id="driver-step-pan-url-input">
-						<label for="disk-url">网盘链接</label>
+						<label for="disk-url">百度网盘分享链接</label>
 						<InputText type="text" v-model="url"/>
 					</div>
 					<div class="field" id="driver-step-pan-pwd-input">
